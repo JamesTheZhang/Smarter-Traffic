@@ -1,4 +1,4 @@
-# Smart-Traffic
+# Smarter-Traffic
 
 You can try out this project!
 
